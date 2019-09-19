@@ -1,0 +1,6 @@
+app\App.class
+app\service\GameRepository.class
+app\service\GameService.class
+app\model\GameRound.class
+app\model\Player.class
+app\controller\GameController.class
